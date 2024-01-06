@@ -47,7 +47,7 @@ TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 # Pesan Awalan /start
 START_MSG = os.environ.get(
     "START_MESSAGE",
-    "<b>Hello {first}</b>\n\nnuntuk mendapatkan file atau video dari bot ini anda harus join chanel dan group yang ada pada tombol di bawah, Lalu klik coba lagi\n\ncapek harus join terus? join vvip Alter aja cek di testi kami => https://t.me/VIP_ALTERR/433\nMau join? hubungi => @aliceajaya\n\n👇👇𝙉𝙊𝙉𝙏𝙊𝙉 𝘿𝙄 𝙎𝙄𝙏𝙐𝙎 𝙒𝙀𝘽 👇👇\n=>https://t.me/tutorsituscollector/11\n\nClick in here👇👇\n=>https://s.id/koleksi-video-ocil\n\nDeveloped by:\n<a href='https://t.me/SHOPEE_BIG_SALES'>TENTANG SAYA</a>\nCreator by:\n<a href='https://t.me/COLLECTOR_OFFICIAL'>@Creator</a>"",
+    "<b>Hello {first}</b>\n\n👇[𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗦𝗜𝗧𝗨𝗦 𝗖𝗢𝗟𝗟𝗘𝗖𝗧𝗢𝗥]👇\n https://telegra.ph/SITUS-COLLECTOR-01-06 \n\n bosen untuk klik banyak link dan bot melulu , join grup VIP ALTER , nggak ribet dan bisa langsung nonton, caranya\n\nVVIP ALTER MURAH DAN TERUPDATE : https://t.me/VIP_ALTERR/433 \n minat join pc : @aliceajaya \n\n Click in here👇👇\n=>https://s.id/kumpulan-video-di-gubuk \n\n Developed by:\n<a href='https://t.me/+vwLf6fQUyqgyNmRl'>TENTANG SAYA</a>\nCreator by:\n<a href='https://t.me/+itziTCyvxX1mNzll'>@Creator</a>"",
 )
 try:
     ADMINS = [int(x) for x in (os.environ.get("ADMINS", "").split())]
@@ -57,7 +57,7 @@ except ValueError:
 # Pesan Saat Memaksa Subscribe
 FORCE_MSG = os.environ.get(
     "FORCE_SUB_MESSAGE",
-    "<b>Hello {first}</b>\n\nnuntuk mendapatkan file atau video dari bot ini anda harus join chanel dan group yang ada pada tombol di bawah, Lalu klik coba lagi\n\ncapek harus join terus? join vvip Alter aja cek di testi kami => https://t.me/VIP_ALTERR/433\nMau join? hubungi => @aliceajaya\n\n👇👇𝙉𝙊𝙉𝙏𝙊𝙉 𝘿𝙄 𝙎𝙄𝙏𝙐𝙎 𝙒𝙀𝘽 👇👇\n=>https://t.me/tutorsituscollector/11\n\nClick in here👇👇\n=>https://s.id/koleksi-video-ocil\n\nDeveloped by:\n<a href='https://t.me/SHOPEE_BIG_SALES'>TENTANG SAYA</a>\nCreator by:\n<a href='https://t.me/COLLECTOR_OFFICIAL'>@Creator</a>"",
+    "<b>Hello {first}</b>\n\n👇[𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗦𝗜𝗧𝗨𝗦 𝗖𝗢𝗟𝗟𝗘𝗖𝗧𝗢𝗥]👇\n https://telegra.ph/SITUS-COLLECTOR-01-06 \n\n bosen untuk klik banyak link dan bot melulu , join grup VIP ALTER , nggak ribet dan bisa langsung nonton, caranya\n\nVVIP ALTER MURAH DAN TERUPDATE : https://t.me/VIP_ALTERR/433 \n minat join pc : @aliceajaya \n\n Click in here👇👇\n=>https://s.id/kumpulan-video-di-gubuk \n\n Developed by:\n<a href='https://t.me/+vwLf6fQUyqgyNmRl'>TENTANG SAYA</a>\nCreator by:\n<a href='https://t.me/+itziTCyvxX1mNzll'>@Creator</a>"",
 )
 
 # Atur Teks Kustom Anda di sini, Simpan (None) untuk Menonaktifkan Teks Kustom
