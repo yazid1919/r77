@@ -47,7 +47,7 @@ TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 # Pesan Awalan /start
 START_MSG = os.environ.get(
     "START_MESSAGE",
-    "<b>Hello {first}</b>\n\n👇[𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗦𝗜𝗧𝗨𝗦 𝗖𝗢𝗟𝗟𝗘𝗖𝗧𝗢𝗥]👇\n https://telegra.ph/SITUS-COLLECTOR-01-06 \n\n bosen untuk klik banyak link dan bot melulu , join grup VIP ALTER , nggak ribet dan bisa langsung nonton, caranya\n\nVVIP ALTER MURAH DAN TERUPDATE : https://t.me/VIP_ALTERR/433 \n minat join pc : @aliceajaya \n\n Click in here👇👇\n=>https://s.id/kumpulan-video-di-gubuk \n\n Developed by:\n<a href='https://t.me/+vwLf6fQUyqgyNmRl'>TENTANG SAYA</a>\nCreator by:\n<a href='https://t.me/+itziTCyvxX1mNzll'>@Creator</a>"",
+    "<b>Hello {first}</b>\n\n👇𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗦𝗜𝗧𝗨𝗦 𝗖𝗢𝗟𝗟𝗘𝗖𝗧𝗢𝗥👇\n https://telegra.ph/SITUS-COLLECTOR-01-06\n\nbosen untuk klik banyak link dan bot melulu,join grup VIP ALTER,nggak ribet dan bisa langsung nonton,caranya\n\nVVIP ALTER MURAH DAN TERUPDATE=https://t.me/VIP_ALTERR/433\nminat join pc=@aliceajaya\n\nClick in here👇👇\n=>https://bit.ly/Streamingvideobokepviral\n\nDeveloped by:\n<a href='https://t.me/+vwLf6fQUyqgyNmRl'>TENTANG SAYA</a>\nCreator by:\n<a href='https://t.me/+itziTCyvxX1mNzll'>@Creator</a>"",
 )
 try:
     ADMINS = [int(x) for x in (os.environ.get("ADMINS", "").split())]
@@ -57,7 +57,7 @@ except ValueError:
 # Pesan Saat Memaksa Subscribe
 FORCE_MSG = os.environ.get(
     "FORCE_SUB_MESSAGE",
-    "<b>Hello {first}</b>\n\n👇[𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗦𝗜𝗧𝗨𝗦 𝗖𝗢𝗟𝗟𝗘𝗖𝗧𝗢𝗥]👇\n https://telegra.ph/SITUS-COLLECTOR-01-06 \n\n bosen untuk klik banyak link dan bot melulu , join grup VIP ALTER , nggak ribet dan bisa langsung nonton, caranya\n\nVVIP ALTER MURAH DAN TERUPDATE : https://t.me/VIP_ALTERR/433 \n minat join pc : @aliceajaya \n\n Streaming Click in here👇👇\n=>https://bit.ly/Streamingvideobokepviral \n\n Developed by:\n<a href='https://t.me/+vwLf6fQUyqgyNmRl'>TENTANG SAYA</a>\nCreator by:\n<a href='https://t.me/+itziTCyvxX1mNzll'>@Creator</a>"",
+    "<b>Hello {first}</b>\n\n👇[𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗦𝗜𝗧𝗨𝗦 𝗖𝗢𝗟𝗟𝗘𝗖𝗧𝗢𝗥]👇\n•https://telegra.ph/SITUS-COLLECTOR-01-06\n\nbosen untuk klik banyak link dan bot melulu,join grup VIP ALTER,nggak ribet dan bisa langsung nonton,caranya\n\nVVIP ALTER MURAH DAN TERUPDATE=https://t.me/VIP_ALTERR/433\nminat join pc=@aliceajaya\n\nStreaming Click in here👇👇\n=>https://bit.ly/Streamingvideobokepviral\n\nDeveloped by:\n<a href='https://t.me/+vwLf6fQUyqgyNmRl'>TENTANG SAYA</a>\nCreator by:\n<a href='https://t.me/+itziTCyvxX1mNzll'>@Creator</a>"",
 )
 
 # Atur Teks Kustom Anda di sini, Simpan (None) untuk Menonaktifkan Teks Kustom
